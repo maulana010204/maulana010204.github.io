@@ -1,0 +1,23 @@
+body{background-image: url(../latihan\ html/foto/trees.webp);}
+h1 {color: #6e661c;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;}
+h2 {color: #6e661c;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;}
+p { font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;}
+table {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;}
+.p2 {text-indent: 30px;
+    text-align: justify;}
+.p3 {font-size: 15px;}
+a {text-decoration: none;
+    font-weight: bold;}
+.a2:link {color: #238323;}
+.a2:hover {color: black;}
+.a2:active {color: #238323;}
+.a2:visited {color: darkgreen;}
